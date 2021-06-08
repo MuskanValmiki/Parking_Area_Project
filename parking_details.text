@@ -1,0 +1,8 @@
+{'Vehicle': 'car', 'num_of_vehicle': 2, 'Vehicle_Number': '2123', 'Time': '2', 'Token': '5'}
+{'Vehicle': 'bike', 'num_of_vehicle': 2, 'Vehicle_Number': '5455', 'Time': '3', 'Token': '9'}
+{'Vehicle': 'scooter', 'num_of_vehicle': 1, 'Vehicle_Number': '7896', 'Time': '1', 'Token': '8'}
+{'Vehicle': 'bike', 'num_of_vehicle': 1, 'Vehicle_Number': '7843', 'Time': '2', 'Token': '1'}
+{'Vehicle': 'scooty', 'num_of_vehicle': 1, 'Vehicle_Number': '9034', 'Time': '3', 'Token': '7'}
+{'Vehicle': 'car', 'num_of_vehicle': 2, 'Vehicle_Number': '77990', 'Time': '1', 'Token': '3'}
+{'Vehicle': 'bike', 'num_of_vehicle': 2, 'Vehicle_Number': '9023', 'Time': '2', 'Token': '4'}
+{'Vehicle': 'scooty', 'num_of_vehicle': 1, 'Vehicle_Number': '8965', 'Time': '2', 'Token': '6'}
